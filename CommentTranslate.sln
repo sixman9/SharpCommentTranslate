@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CommentTranslate", "CommentTranslate.csproj", "{EB28D3F8-1FB8-4861-8E1E-A56EA20E16F0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EB28D3F8-1FB8-4861-8E1E-A56EA20E16F0}.Debug|x86.ActiveCfg = Debug|x86
+		{EB28D3F8-1FB8-4861-8E1E-A56EA20E16F0}.Debug|x86.Build.0 = Debug|x86
+		{EB28D3F8-1FB8-4861-8E1E-A56EA20E16F0}.Release|x86.ActiveCfg = Release|x86
+		{EB28D3F8-1FB8-4861-8E1E-A56EA20E16F0}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = CommentTranslate.csproj
+	EndGlobalSection
+EndGlobal
